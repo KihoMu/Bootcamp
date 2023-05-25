@@ -1,0 +1,15 @@
+.box-model{
+    width: 400px;
+    height: 150px;
+    border: 10px dotted black;
+    border-width: 10px;
+    background-color: gold;
+    margin: 20px 30px 5px 60px;
+    padding: 50px;
+
+}
+
+.red{
+    
+}
+

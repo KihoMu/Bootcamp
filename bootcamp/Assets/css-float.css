@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    max-width: 660px;
+    margin: auto;
+}
+
+.left-float{
+    float: left;
+    box-shadow: 0 4px 8px 0 black;
+    width: 300px;
+    margin-right: 60px;
+}
+
+.right-float{
+    float: right;
+    box-shadow: 0 4px 8px 0 black;
+    width: 300px;
+    overflow: hidden;
+}
+
+h1{
+    color: blue;
+}
