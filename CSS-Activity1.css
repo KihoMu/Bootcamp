@@ -1,0 +1,30 @@
+table {
+    font-family: sans-serif;
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #fc8a8a;
+    color: white;
+    padding: 10px;
+}
+
+td, th {
+    text-align: center;
+}
+
+.first{
+    background-color: #ffd4b3;
+    color: black;
+}
+
+.email{
+    color: blue;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+}

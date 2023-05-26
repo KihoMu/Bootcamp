@@ -1,0 +1,27 @@
+.container{
+    position: relative;
+}
+
+.red-box{
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    position: relative;
+    left: 70px;
+}
+
+.green-line{
+    width: 250px;
+    height: 150px;
+    border: 2px solid green;
+}
+
+.blue-box{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 70px;
+    bottom: 0;
+    z-index: 1000%;
+}

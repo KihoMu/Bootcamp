@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+.float-left{
+    float: left;
+    box-shadow: 0 4px 8px 0 black;
+    width: 300px;
+    margin-right: 60px;
+}
+
+.float-right{
+    float: right;
+    box-shadow: 0 4px 8px 0 black;
+    width: 300px;
+    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
